@@ -1,7 +1,7 @@
 # run-buddy
 ## Purpose
 A website that offers fitness training services.
-##Built with
+## Built with
 *HTML
 *CSS
 ## website: https://RevChrisWarren.github.io/run-buddy/

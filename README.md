@@ -7,3 +7,4 @@ A website that offers fitness training services.
 ## website: https://RevChrisWarren.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Chris Warren
+# Run Buddy Inc.

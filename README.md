@@ -12,4 +12,4 @@ A website that offers fitness training services.
 ## Contribution
 Made with ❤️ by Chris Warren
 
-### &copy2022 Run Buddy, Inc
+### &copy;2022 Run Buddy, Inc
